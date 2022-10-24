@@ -1,0 +1,2 @@
+demo project license information
+use this project only by permission of the author.
