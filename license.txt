@@ -1,3 +1,4 @@
 demo project license information
 use this project only by permission of the author.
 modifications to the source code are not supported by the author.
+no licensing protection.  all previous restrictiosn are null and void.
