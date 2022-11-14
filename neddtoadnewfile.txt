@@ -1,3 +1,4 @@
 #new file to add without hacks to the demo.readme
 This is urgent information that needs to be communicated
 It must not wait until the hacking has been tested
+#adding the hack...hack...hack to be consisten
